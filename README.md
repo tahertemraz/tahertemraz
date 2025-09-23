@@ -27,7 +27,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Taher’s GitHub stats](https://github-readme-stats.vercel.app/api?username=tahertemraz&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahertemraz&layout=compact&theme=radical)
 
 ---
