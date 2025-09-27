@@ -37,10 +37,13 @@
 
 ---
 
-## 🚀 Projects
-- 🌐 Portfolio Website (HTML, CSS, JS, React)  
-- 🧮 Calculator App (C++)  
-- 📑 Blog Website (HTML, CSS, JS)  
+## 🏗️ My Projects
+
+- Coffee Shop Website (HTML, CSS, JS)
+- Counter Project (HTML, CSS, JS)
+- Login (HTML, CSS, JS)
+- Calculator (C++)
+- Library Management System (C++)
 
 ---
 
