@@ -23,27 +23,29 @@
 
 <p align="center">
   <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=cs" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=sql" />
-  
+  <img src="https://skillicons.dev/icons?i=html&theme=dark&size=40" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark&size=40" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark&size=40" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark&size=40" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark&size=40" />
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark&size=40" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark&size=40" />
+  <img src="https://skillicons.dev/icons?i=sql&theme=dark&size=40" />
 </p>
 
 <p align="center">
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=ps" />
-  <img src="https://skillicons.dev/icons?i=ae" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark&size=40" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark&size=40" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark&size=40" />
+  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark&size=40" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark&size=40" />
+  <img src="https://skillicons.dev/icons?i=npm&theme=dark&size=40" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark&size=40" />
+  <img src="https://skillicons.dev/icons?i=ps&theme=dark&size=40" />
+  <img src="https://skillicons.dev/icons?i=ae&theme=dark&size=40" />
 </p>
+
 
 
 
