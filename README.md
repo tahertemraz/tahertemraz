@@ -38,10 +38,10 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 ---
-## 🏆 GitHub Trophies
+## 👨‍💻 3D Coding Animation
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TaherTemraz&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://i.imgur.com/5QFQZJk.gif" width="600" alt="3D coding animation" />
 </div>
 ---
 ## 🧰 Tools I Use
