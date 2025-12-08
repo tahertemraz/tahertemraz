@@ -25,14 +25,12 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://github.com/TaherTemraz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
 </p>
 
 ---
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=1800&pause=900&color=00F0FF&center=true&vCenter=true&width=750&lines=My+Tech+Stack+%F0%9F%94%A7;HTML+%7C+CSS+%7C+JavaScript;React+JS+%7C+C%2B%2B+%7C+C%23;Python+%7C+SQL+%7C+Node.js;Git+%7C+GitHub+%7C+VS+Code;Figma+%7C+Photoshop+%7C+After+Effects;Always+Learning+New+Things+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=38&duration=1700&pause=900&color=00F0FF&center=true&vCenter=true&width=1000&height=90&lines=My+Tech+Stack+%F0%9F%94%A7;HTML+%7C+CSS+%7C+JavaScript;React+%7C+C%2B%2B+%7C+C%23;Python+%7C+SQL+%7C+Node.js;Git+%7C+GitHub+%7C+VS+Code;Figma+%7C+Photoshop+%7C+After+Effects;Let's+Build+Something+Amazing+%F0%9F%9A%80" />
 </div>
 
 
