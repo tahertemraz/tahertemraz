@@ -27,17 +27,10 @@
 
 
 ---
-## ⚒️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,python,sql,git,github,vscode,visualstudio,nodejs,npm,figma,ps,ae&perline=9" />
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,python,sql,git,github,vscode,visualstudio,nodejs,npm,figma,ps,ae&theme=light" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=45&duration=600&pause=200&color=FF0000&color2=FFFF00&color3=00FF00&color4=00FFFF&color5=FF00FF&center=true&vCenter=true&width=1000&height=120&font=JetBrains+Mono&weight=900&lines=🐍+PYTHON+⚡;🟨+JAVASCRIPT+⚡;⚛️+REACT+⚡;🧩+C%23+⚡;💠+C%2B%2B+⚡;🗄️+SQL+⚡;🎨+HTML+%26+CSS+⚡" />
-</div>
 
 
 
