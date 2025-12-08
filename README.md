@@ -18,33 +18,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taher-temraz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taher.temraz@gmail.com)  
 
-
----
-
-## ⚒️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html&theme=light" />  
-  <img src="https://skillicons.dev/icons?i=css&theme=light" />
-  <img src="https://skillicons.dev/icons?i=js&theme=light" />
-  <img src="https://skillicons.dev/icons?i=react&theme=light" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=light" />
-  <img src="https://skillicons.dev/icons?i=cs&theme=light" />
-  <img src="https://skillicons.dev/icons?i=python&theme=light" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
-  <img src="https://skillicons.dev/icons?i=git&theme=light" />
-  <img src="https://skillicons.dev/icons?i=github&theme=light" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light" />
-  <img src="https://skillicons.dev/icons?i=ps&theme=light" />
-  <img src="https://skillicons.dev/icons?i=ae&theme=light" />
-</div>
-
 ---
 ## ⚒️ Tech Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=1200&pause=500&color=00E5FF&center=true&vCenter=true&width=700&height=70&lines=HTML5;CSS3;JavaScript;React;C%2B%2B;C%23;Python;SQL;Git;GitHub;Visual+Studio;VS+Code;Photoshop;After+Effects" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,python,sql,git,github,vscode,visualstudio,nodejs,npm,figma,ps,ae&theme=light&perline=8" />
 </div>
+
+
+
 ---
 
 <div align="center">
