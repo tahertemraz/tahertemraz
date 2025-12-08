@@ -32,7 +32,7 @@
 
 ---
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=My+Tech+Stack;HTML+%7C+CSS+%7C+JavaScript;React+%7C+C%2B%2B+%7C+C%23;Python+%7C+SQL;Always+Learning+%26+Building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=1800&pause=900&color=00F0FF&center=true&vCenter=true&width=750&lines=My+Tech+Stack+%F0%9F%94%A7;HTML+%7C+CSS+%7C+JavaScript;React+JS+%7C+C%2B%2B+%7C+C%23;Python+%7C+SQL+%7C+Node.js;Git+%7C+GitHub+%7C+VS+Code;Figma+%7C+Photoshop+%7C+After+Effects;Always+Learning+New+Things+%F0%9F%9A%80" />
 </div>
 
 
