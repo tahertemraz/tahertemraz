@@ -38,17 +38,10 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 ---
-## <div align="center">🚀 Developer Terminal</div>
+## <div align="center">🧬 Digital DNA Stream</div>
 
-taher@github:~$ initialize --project
 
-> Loading creativity............. ████████████▒▒ 95%
-> Starting development server.... ████████████▒▒ 90%
-> Compiling ideas into code...... ████████████▒▒ 92%
-> Optimizing performance......... ████████████▒▒ 94%
-> Deploying dreams............... ████████████▒▒ 100%
 
-✔ System Ready — Let's Build Something Amazing.
 
 ---
 ## 🧰 Tools I Use
