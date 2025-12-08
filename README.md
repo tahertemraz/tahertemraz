@@ -34,26 +34,26 @@
 ## ⚒️ Tech Stack  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="40" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="40" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="40" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="40" />
-  <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="40" />
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="42" />
 
-  <!-- Reduced SQL width to remove the gap -->
-  <img src="https://skillicons.dev/icons?i=sql&theme=dark" height="40" style="transform: scale(0.85);" />
+  <br><br>
 
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40" />
-  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" height="40" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" />
-  <img src="https://skillicons.dev/icons?i=npm&theme=dark" height="40" />
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="40" />
-  <img src="https://skillicons.dev/icons?i=ps&theme=dark" height="40" />
-  <img src="https://skillicons.dev/icons?i=ae&theme=dark" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" height="42" />
 </p>
 
 
