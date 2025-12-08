@@ -26,6 +26,28 @@
 </div>
 
 
+---
+## ⚒️ Tech Stack
+
+<div align="center">
+
+**Languages**  
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,python,sql&theme=light" />
+
+<br/><br/>
+
+**Tools**  
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,nodejs,npm&theme=light" />
+
+<br/><br/>
+
+**Design**  
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,ps,ae&theme=light" />
+
+</div>
 
 ---
 
