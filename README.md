@@ -19,9 +19,27 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taher.temraz@gmail.com)  
 
 ---
-## ⚒️ Tech Stack
+## ⚒️ Tech Stack  
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,python,sql,git,github,vscode,visualstudio,nodejs,npm,figma,ps,ae&theme=dark&size=45" />
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark&size=42" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark&size=42" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark&size=42" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark&size=42" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark&size=42" />
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark&size=42" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark&size=42" />
+  <img src="https://skillicons.dev/icons?i=sql&theme=dark&size=42" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark&size=42" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark&size=42" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark&size=42" />
+  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark&size=42" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark&size=42" />
+  <img src="https://skillicons.dev/icons?i=npm&theme=dark&size=42" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark&size=42" />
+  <img src="https://skillicons.dev/icons?i=ps&theme=dark&size=42" />
+  <img src="https://skillicons.dev/icons?i=ae&theme=dark&size=42" />
+</div>
 
 
 
