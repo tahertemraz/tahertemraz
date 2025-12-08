@@ -41,15 +41,6 @@
 
 ---
 
-## 🏗️ My Projects
 
-- Coffee Shop Website (HTML, CSS, JS)
-- Counter Project (HTML, CSS, JS)
-- Login (HTML, CSS, JS)
-- Calculator (C++)
-- Library Management System (C++)
-- Age Calculator(HTML, CSS, JS)
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tahertemraz&color=blue)
