@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=cs" />
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=sql" />
-  <img src="https://skillicons.dev/icons?i=npm" />
+  
 </p>
 
 <p align="center">
@@ -41,7 +41,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=visualstudio" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=figma" />
   <img src="https://skillicons.dev/icons?i=ps" />
   <img src="https://skillicons.dev/icons?i=ae" />
 </p>
