@@ -39,9 +39,8 @@
 
 ---
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2000&color=1ECBE1&center=true&vCenter=true&width=600&lines=Python;JavaScript;C%23;C%2B%2B;React;SQL;HTML;CSS;Web+Development;Software+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2000&color=00E676&center=true&vCenter=true&width=600&lines=Python;JavaScript;C%23;C%2B%2B;React;SQL;HTML;CSS" />
 </div>
 
 
