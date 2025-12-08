@@ -13,12 +13,7 @@
 ⚡ Fun fact: I love solving problems and turning ideas into code!  
 
 ---
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TaherTemraz/TaherTemraz/output/github-contribution-grid-snake.svg" />
-</p>
----
 ## 🌐 Connect With Me
 
 <p align="left">
