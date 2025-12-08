@@ -38,11 +38,16 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 ---
-## 🚀 GitHub Stats & Activity
+## 📈 GitHub Insights
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TaherTemraz&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaherTemraz&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaherTemraz&theme=tokyonight&hide_border=true" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=TaherTemraz&show_icons=true&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
