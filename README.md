@@ -21,7 +21,7 @@
 ---
 ## ⚒️ Tech Stack  
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=html&theme=dark&size=40" />
   <img src="https://skillicons.dev/icons?i=css&theme=dark&size=40" />
   <img src="https://skillicons.dev/icons?i=js&theme=dark&size=40" />
