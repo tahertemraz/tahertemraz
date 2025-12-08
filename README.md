@@ -19,10 +19,33 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taher.temraz@gmail.com)  
 
 ---
-## ⚒️ Tech Stack
+## ⚒️ Tech Stack  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,python,sql,git,github,vscode,visualstudio,nodejs,npm,figma,ps,ae&perline=8" />
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=sql" />
 </p>
+
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=npm" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=ps" />
+  <img src="https://skillicons.dev/icons?i=ae" />
+</p>
+
 
 
 ---
