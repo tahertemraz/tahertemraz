@@ -40,7 +40,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=visualstudio" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=npm" />
   <img src="https://skillicons.dev/icons?i=figma" />
   <img src="https://skillicons.dev/icons?i=ps" />
   <img src="https://skillicons.dev/icons?i=ae" />
