@@ -39,30 +39,7 @@
 
 ---
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=48
-&duration=1200
-&pause=300
-&color=FF0000
-&color2=FF8C00
-&color3=FFD700
-&color4=32CD32
-&color5=1E90FF
-&color6=8A2BE2
-&center=true
-&vCenter=true
-&width=1000
-&height=120
-&lines=🔥+PYTHON+MASTER+MODE+🔥;
-💥+JAVASCRIPT+ANARCHY+💥;
-⚡+C%23+POWER+CORE+⚡;
-💣+C%2B%2B+BEAST+LEVEL+💣;
-🌈+REACT+RAINBOW+DOMINANCE+🌈;
-🧠+SQL+DATA+BRAIN+🧠;
-🎨+HTML+%2B+CSS+ART+ENGINE+🎨;
-🚀+TAHER+TEMRAZ+UPGRADING...+🚀;
-💀+HACKER+MODE+OVERCLOCKED+💀
-&font=Fira+Code
-&weight=900" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=48&duration=1000&pause=300&color=FF0000&color2=FF8C00&color3=FFD700&color4=00FF00&color5=1E90FF&color6=8A2BE2&width=1000&height=120&center=true&vCenter=true&font=Fira+Code&weight=900&lines=🔥+PYTHON+MASTER+MODE+🔥;💥+JAVASCRIPT+ANARCHY+💥;⚡+C%23+POWER+CORE+⚡;💣+C%2B%2B+BEAST+LEVEL+💣;🌈+REACT+RAINBOW+DOMINANCE+🌈;🧠+SQL+DATA+BRAIN+🧠;🎨+HTML+%2B+CSS+ART+ENGINE+🎨;🚀+TAHER+TEMRAZ+UPGRADING...+🚀;💀+HACKER+MODE+OVERCLOCKED+💀" />
 </div>
 
 
