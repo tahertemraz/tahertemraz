@@ -38,7 +38,25 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 ---
-## <div align="center">🧊 3D Code Cube</div>
+## <div align="center">💻 Coding Desk</div>
+
+```
+        ______________________
+       |                      |
+       |   while(alive) {     |
+       |      code();         |
+       |      learn();        |
+       |      build();        |
+       |   }                  |
+       |______________________|
+        \____________________/
+         \__________________/
+          |   __________   |
+          |  |  ____  |  ||
+          |__|_|____|_|__||
+          |________________|
+```
+
 
 
 
