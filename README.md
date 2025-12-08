@@ -38,26 +38,11 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 ---
-## <div align="center">💻 Coding Desk</div>
-
-```
-        ______________________
-       |                      |
-       |   while(alive) {     |
-       |      code();         |
-       |      learn();        |
-       |      build();        |
-       |   }                  |
-       |______________________|
-        \____________________/
-         \__________________/
-          |   __________   |
-          |  |  ____  |  ||
-          |__|_|____|_|__||
-          |________________|
-```
 
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2000&color=1ECBE1&center=true&vCenter=true&width=600&lines=Python;JavaScript;C%23;C%2B%2B;React;SQL;HTML;CSS;Web+Development;Software+Engineering" />
+</div>
 
 
 
