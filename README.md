@@ -31,6 +31,7 @@
   <img src="https://skillicons.dev/icons?i=cs" />
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=sql" />
+  <img src="https://skillicons.dev/icons?i=npm" />
 </p>
 
 <p align="center">
