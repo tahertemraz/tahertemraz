@@ -38,8 +38,9 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 ---
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=48&duration=1000&pause=300&color=FF0000&color2=FF8C00&color3=FFD700&color4=00FF00&color5=1E90FF&color6=8A2BE2&width=1000&height=120&center=true&vCenter=true&font=Fira+Code&weight=900&lines=🔥+PYTHON+MASTER+MODE+🔥;💥+JAVASCRIPT+ANARCHY+💥;⚡+C%23+POWER+CORE+⚡;💣+C%2B%2B+BEAST+LEVEL+💣;🌈+REACT+RAINBOW+DOMINANCE+🌈;🧠+SQL+DATA+BRAIN+🧠;🎨+HTML+%2B+CSS+ART+ENGINE+🎨;🚀+TAHER+TEMRAZ+UPGRADING...+🚀;💀+HACKER+MODE+OVERCLOCKED+💀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=45&duration=500&pause=200&color=FF0000&color2=FFFF00&color3=00FF00&color4=00FFFF&color5=FF00FF&multiline=false&center=true&vCenter=true&width=1000&height=120&font=JetBrains+Mono&weight=900&lines=🐍+P͟Y͟T͟H͟O͟N͟+⚡;🟨+J͟A͟V͟A͟S͟C͟R͟I͟P͟T͟+⚡;⚛️+R͟E͟A͟C͟T͟+⚡;🧩+C͟%23+⚡;💠+C͟%2B%2B+⚡;🗄️+S͟Q͟L͟+⚡;🎨+H͟T͟M͟L͟+%26+͟C͟S͟S͟+⚡" />
 </div>
 
 
