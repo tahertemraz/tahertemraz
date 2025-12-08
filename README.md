@@ -41,7 +41,9 @@
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="40" />
   <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="40" />
   <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" />
-  <img src="https://skillicons.dev/icons?i=sql&theme=dark" height="40" />
+
+  <!-- Reduced SQL width to remove the gap -->
+  <img src="https://skillicons.dev/icons?i=sql&theme=dark" height="40" style="transform: scale(0.85);" />
 
   <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" />
   <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" />
