@@ -21,15 +21,11 @@
 ---
 ## ⚒️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,python,sql,git,github,vscode,visualstudio,nodejs,npm,figma,ps,ae&theme=light&perline=8" />
-</div>
 
-
----
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,python,sql,git,github,vscode,visualstudio,nodejs,npm,figma,ps,ae&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,python,sql,git,github,vscode,visualstudio,nodejs,npm,figma,ps,ae&perline=8" />
 </p>
+
 
 
 
