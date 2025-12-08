@@ -40,7 +40,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=45&duration=500&pause=200&color=FF0000&color2=FFFF00&color3=00FF00&color4=00FFFF&color5=FF00FF&multiline=false&center=true&vCenter=true&width=1000&height=120&font=JetBrains+Mono&weight=900&lines=🐍+P͟Y͟T͟H͟O͟N͟+⚡;🟨+J͟A͟V͟A͟S͟C͟R͟I͟P͟T͟+⚡;⚛️+R͟E͟A͟C͟T͟+⚡;🧩+C͟%23+⚡;💠+C͟%2B%2B+⚡;🗄️+S͟Q͟L͟+⚡;🎨+H͟T͟M͟L͟+%26+͟C͟S͟S͟+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=45&duration=600&pause=200&color=FF0000&color2=FFFF00&color3=00FF00&color4=00FFFF&color5=FF00FF&center=true&vCenter=true&width=1000&height=120&font=JetBrains+Mono&weight=900&lines=🐍+PYTHON+⚡;🟨+JAVASCRIPT+⚡;⚛️+REACT+⚡;🧩+C%23+⚡;💠+C%2B%2B+⚡;🗄️+SQL+⚡;🎨+HTML+%26+CSS+⚡" />
 </div>
 
 
