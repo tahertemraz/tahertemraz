@@ -38,9 +38,31 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 ---
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2000&color=00E676&center=true&vCenter=true&width=600&lines=Python;JavaScript;C%23;C%2B%2B;React;SQL;HTML;CSS" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=48
+&duration=1200
+&pause=300
+&color=FF0000
+&color2=FF8C00
+&color3=FFD700
+&color4=32CD32
+&color5=1E90FF
+&color6=8A2BE2
+&center=true
+&vCenter=true
+&width=1000
+&height=120
+&lines=🔥+PYTHON+MASTER+MODE+🔥;
+💥+JAVASCRIPT+ANARCHY+💥;
+⚡+C%23+POWER+CORE+⚡;
+💣+C%2B%2B+BEAST+LEVEL+💣;
+🌈+REACT+RAINBOW+DOMINANCE+🌈;
+🧠+SQL+DATA+BRAIN+🧠;
+🎨+HTML+%2B+CSS+ART+ENGINE+🎨;
+🚀+TAHER+TEMRAZ+UPGRADING...+🚀;
+💀+HACKER+MODE+OVERCLOCKED+💀
+&font=Fira+Code
+&weight=900" />
 </div>
 
 
