@@ -1,3 +1,10 @@
+<!-- Header Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=1ECBE1&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+Taher+Temraz;Software+Developer+💻;Always+learning+new+things+💡" />
+</div>
+
+---
+
 # 👋 Hi, I'm Taher Temraz  
 
 💻 A passionate Computer Science student and aspiring software developer  
@@ -31,6 +38,14 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 ---
+## 🚀 GitHub Stats & Activity
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TaherTemraz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaherTemraz&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
 
 ## 🌟 Inspiration
 
@@ -40,7 +55,20 @@
 
 
 ---
+## 🎉 Fun Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-React-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Love-Coding-red?style=for-the-badge" />
+</p>
+
+---
 
 
+## 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=TaherTemraz&style=for-the-badge&color=blue" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=tahertemraz&color=blue)
+---
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
