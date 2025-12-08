@@ -40,6 +40,12 @@
 </div>
 
 ---
+## ⚒️ Tech Stack
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=1200&pause=500&color=00E5FF&center=true&vCenter=true&width=700&height=70&lines=HTML5;CSS3;JavaScript;React;C%2B%2B;C%23;Python;SQL;Git;GitHub;Visual+Studio;VS+Code;Photoshop;After+Effects" />
+</div>
+---
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=45&duration=600&pause=200&color=FF0000&color2=FFFF00&color3=00FF00&color4=00FFFF&color5=FF00FF&center=true&vCenter=true&width=1000&height=120&font=JetBrains+Mono&weight=900&lines=🐍+PYTHON+⚡;🟨+JAVASCRIPT+⚡;⚛️+REACT+⚡;🧩+C%23+⚡;💠+C%2B%2B+⚡;🗄️+SQL+⚡;🎨+HTML+%26+CSS+⚡" />
