@@ -37,13 +37,7 @@
 
 
 ---
-## 🧰 Tools I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,react,html,css,js,cpp,cs,python,sql,ps,ae&perline=8" />
-</p>
-
----
 
 ## 🌟 Inspiration
 
