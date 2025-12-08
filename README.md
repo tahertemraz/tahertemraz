@@ -31,17 +31,10 @@
 </p>
 
 ---
-## ⚒️ Tech Stack  
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=My+Tech+Stack;HTML+%7C+CSS+%7C+JS+%7C+React;C%2B%2B+%7C+C%23+%7C+Python+%7C+SQL;Tools+I+Use+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=My+Tech+Stack;HTML+%7C+CSS+%7C+JavaScript;React+%7C+C%2B%2B+%7C+C%23;Python+%7C+SQL;Always+Learning+%26+Building+🚀" />
 </div>
 
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,python,sql,git,github,vscode,visualstudio,nodejs,npm,figma,ps,ae&theme=dark&perline=9" />
-</p>
 
 
 
