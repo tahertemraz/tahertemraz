@@ -38,18 +38,30 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 ---
-## 📈 GitHub Insights
+## 🐍 Contribution Snake
 
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaherTemraz&theme=tokyonight&hide_border=true" />
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=TaherTemraz&show_icons=true&theme=tokyonight&hide_border=true" />
-
+  <img src="https://raw.githubusercontent.com/TaherTemraz/TaherTemraz/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
+---
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TaherTemraz&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+---
+## 🧰 Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,react,html,css,js,cpp,cs,python,sql,ps,ae&perline=8" />
+</p>
+---
+## 💡 Coding Mode
+
+<div align="center">
+  <img src="https://i.imgur.com/qf9fEHB.gif" width="500" />
+</div>
 ---
 
 ## 🌟 Inspiration
