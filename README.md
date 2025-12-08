@@ -33,25 +33,26 @@
 ---
 ## ⚒️ Tech Stack  
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark&size=40" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark&size=40" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark&size=40" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark&size=40" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark&size=40" />
-  <img src="https://skillicons.dev/icons?i=cs&theme=dark&size=40" />
-  <img src="https://skillicons.dev/icons?i=python&theme=dark&size=40" />
-  <img src="https://skillicons.dev/icons?i=sql&theme=dark&size=40" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark&size=40" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark&size=40" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark&size=40" />
-  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark&size=40" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark&size=40" />
-  <img src="https://skillicons.dev/icons?i=npm&theme=dark&size=40" />
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark&size=40" />
-  <img src="https://skillicons.dev/icons?i=ps&theme=dark&size=40" />
-  <img src="https://skillicons.dev/icons?i=ae&theme=dark&size=40" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="45" style="margin:4px;" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="45" style="margin:4px;" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="45" style="margin:4px;" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="45" style="margin:4px;" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45" style="margin:4px;" />
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="45" style="margin:4px;" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" style="margin:4px;" />
+  <img src="https://skillicons.dev/icons?i=sql&theme=dark" width="45" style="margin:4px;" />
+
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" style="margin:4px;" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" style="margin:4px;" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45" style="margin:4px;" />
+  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="45" style="margin:4px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="45" style="margin:4px;" />
+  <img src="https://skillicons.dev/icons?i=npm&theme=dark" width="45" style="margin:4px;" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="45" style="margin:4px;" />
+  <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="45" style="margin:4px;" />
+  <img src="https://skillicons.dev/icons?i=ae&theme=dark" width="45" style="margin:4px;" />
+</p>
 
 
 
